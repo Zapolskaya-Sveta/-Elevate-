@@ -1,0 +1,6 @@
+http://localhost/Elevate/
+логин: sveta
+пароль: sveta
+почта: zapolskaaveta@gmail.com
+ui https://www.figma.com/design/522IA1u3aCKZPjtiVQY0ef/ui-elevate?node-id=0-1&p=f&t=glh3blbS6xfvjUzF-0
+ux https://www.figma.com/design/S9fX3PyedRRBUFM239cZFU/ux-elevate?t=glh3blbS6xfvjUzF-0
